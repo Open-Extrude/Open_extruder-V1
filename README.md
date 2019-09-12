@@ -1,7 +1,7 @@
-# Open_extruder
+# Open Extruder
 All printable STL files for the Open Extruder.
 
-# 3D Printed Parts
+## 3D Printed Parts
 - Hoper bottom mount
 - Hoper top 
 - Hoper threaded extender
