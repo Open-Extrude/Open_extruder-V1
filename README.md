@@ -1,5 +1,5 @@
 # Open Extruder
-All printable STL files for the Open Extruder. Follow along the build and development process on our instagram page https://instagram.com/konstructs/ Use the hashtag #openextrude to show us your builds.
+All printable STL files for the Open Extruder. Follow along the build and development process on our instagram page https://instagram.com/konstructs/ Use the hashtag **#openextrude** to show us your builds.
 
 ## 3D Printed Parts
 - Hoper bottom mount
